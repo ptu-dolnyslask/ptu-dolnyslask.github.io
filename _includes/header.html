@@ -1,0 +1,20 @@
+<header>
+    <div id="mainHeader">
+        <h1>{{site.title}}</h1>
+        <h4>{{site.subtitle}}</h2>
+    </div>
+    <img id="logo" src="{{site.baseurl}}/assets/ptu_ds_white.png" />
+</header>
+<nav>
+    <a class="home" href="{{site.baseurl}}/"><i class="fas fa-home"></i></a>
+
+    {% assign navitems = site.pages
+        | where: "nav",true
+        | sort: "nav_order"
+    %}
+    {% for item in navitems %}
+        <a href="{{item.url}}">{{item.title}}</a>
+    {% endfor %}
+
+    <a href="{{site.baseurl}}/urosilesiana/">Urosilesiana</a>
+</nav>

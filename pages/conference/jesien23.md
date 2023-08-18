@@ -25,8 +25,8 @@ nav_order: 2
 ### Sesja II 11:15 – 12:30
 #### Rak pęcherza moczowego wysokiego ryzyka.
 **Przewodniczący:** prof. dr hab. Szydełko, prof. dr hab. Wojciech Krajewski, dr hab. Bartosz Małkiewicz
-* *ReTURB w raku pęcherza moczowego wysokiego ryzyka* – prof. dr. hab. Wojciech Krajewski
-* *Leczenie nienaciekającego raka pęcherza moczowego: BCG i inne terapie*
+* *ReTURB w raku pęcherza moczowego wysokiego ryzyka* – prof. dr hab. Wojciech Krajewski
+* *Leczenie nienaciekającego raka pęcherza moczowego: BCG i inne terapie* - Łukasz Nowak
 * *BCG-terapia: powikłania i jak z nimi postępować* – dr n. med. Monika Złotkiewicz, prof. dr hab. Anna Kołodziej
 * *Dyskusja i miniquiz II*
 

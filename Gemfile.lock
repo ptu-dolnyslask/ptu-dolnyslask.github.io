@@ -62,8 +62,6 @@ GEM
     rexml (3.2.5)
     rouge (4.1.2)
     safe_yaml (1.0.5)
-    sass-embedded (1.64.1-x64-mingw-ucrt)
-      google-protobuf (~> 3.23)
     sass-embedded (1.64.1-x64-mingw32)
       google-protobuf (~> 3.23)
     sass-embedded (1.64.1-x64-unknown)
@@ -79,7 +77,6 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  x64-mingw-ucrt
   x64-mingw32
   x64-unknown
 
@@ -92,4 +89,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.4.18
+   2.4.17

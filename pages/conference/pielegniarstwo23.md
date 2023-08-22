@@ -20,28 +20,28 @@ Konferencja jest kierowana do pielęgniarek (oddziałów urologicznych, bloku op
 
 
 ### Komitet Organizacyjny:
-mgr inż. Katarzyna Kapuścińska, mgr Anna Zdrożna, dr n. med. Aleksandra Pytel, mgr Urszula Rudzik, dr n. med. Zenona Jabłońska, dr n. med. Ewa Wróbel, dr n. med. Ireneusz Skawina, dr n. med. Michał Wróbel, Radosław Piszczek, Maciej Lenartowski, Arnold Karbowski, Vitalyi Kovalchuk, Szymon Zapołoch, Maciej Wołkowiecki, Tomasz Michalik, Filip Czerwiński
+mgr inż. Katarzyna Kapuścińska, mgr Anna Zdrożna, dr n. med. Aleksandra Pytel, mgr Edyta Chamioło-Sołtysik, mgr Urszula Rudzik, dr n. med. Zenona Jabłońska, dr n. med. Ireneusz Skawina, dr n. med. Michał Wróbel, mgr inż. Szymon Wróbel, Radosław Piszczek, Maciej Lenartowski, Arnold Karbowski, Vitalyi Kovalchuk, Szymon Zapołoch, Maciej Wołkowiecki, Tomasz Michalik, Filip Czerwiński
 
 ### Organizatorzy
 * Dolnośląski Szpital Specjalistyczny im. T. Marciniaka we Wrocławiu
 * Oddział Dolnośląski Polskiego Towarzystwa Urologicznego
 
 ### Patronaty
-* Dolnośląska Izba Pielęgniarek i Położnych<br/>
-
+* Dolnośląska Izba Pielęgniarek i Położnych
 
 ### Zgłoszenia
-Zgłoszenia mailowo na adres <a href="mailto:{{site.email}}">{{site.email}}</a>.
-Po uzyskaniu zwrotnego maila z potwierdzeniem rejestracji należy wpłacić opłatę rejestracyjną 100 zł na konto: PTU
+Zgłoszenia mailowo na adres <a href="mailto:{{site.email}}">{{site.email}}</a>.<br/>
+Po uzyskaniu zwrotnego maila z potwierdzeniem rejestracji należy wpłacić opłatę rejestracyjną 100 zł na konto: <a href="/pages/kontakt.html">PTU</a>
+
 Z opłaty rejestracyjnej zwolnieni są pracownicy DSS im. Marciniaka we Wrocławiu
 
 ### Program
 1.	*Wprowadzenie: Kamica układu moczowego*; dr Michał Wróbel
-2.	*Komunikacja i współpraca w zespole terapeutycznym podstawą wysokiej jakości usług medycznych*; mgr Edyta Chamioło-Sołtysik, Joanna Sulgostowska
-3.	*Przygotowanie pacjenta do zabiegu*; mgr Edyta Chamioło-Sołtysik, Joanna Sulgostowska
-4.	*Wytyczne dotyczące opieki nad pacjentem po zabiegach endourologicznych*; mgr Edyta Chamioło-Sołtysik, Joanna Sulgostowska
-5.	*Edukacja pacjentów*; mgr Edyta Chamioło-Sołtysik, Joanna Sulgostowska
-6.	*Profilaktyka kamicy moczowej*; mgr Edyta Chamioło-Sołtysik, Joanna Sulgostowska
+2.	*Komunikacja i współpraca w zespole terapeutycznym podstawą wysokiej jakości usług medycznych*; mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
+3.	*Przygotowanie pacjenta do zabiegu*; mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
+4.	*Wytyczne dotyczące opieki nad pacjentem po zabiegach endourologicznych*; mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
+5.	*Edukacja pacjentów*; mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
+6.	*Profilaktyka kamicy moczowej*; mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
 7.	*SWL*: Maciej Wołkowiecki
 8.	*Cystolitotrypsja: Opis procedury, Instrumentarium (Jaki sprzęt?, Jakie elementy jednorazowe? Jak przygotować do sterylizacji?)*; Filip Czerwiński, Aneta Czechowicz
 9.	*Sztywna Ureterorenoskopia: Opis procedury, Instrumentarium*; Vitaliy Kovalchuk, Aneta Czechowicz

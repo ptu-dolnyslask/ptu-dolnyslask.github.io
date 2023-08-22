@@ -12,6 +12,12 @@ nav_order: 2
 {{page.subtitle}}
 ---
 
+**Miejsce**: Uniwersytecki Szpital Kliniczny we Wrocławiu, ul. Borowska 213<br/>
+**Data**: 28 października 2023
+
+### Organizatorzy
+* Oddział Dolnośląski Polskiego Towarzystwa Urologicznego
+* Uniwerysteckie Centrum Urologii, Uniwersytet Medyczny we Wrocławiu
 
 ### Sesja I 10:00 – 11:15
 #### Pęcherz neurogenny i zakażenia układu moczowego.

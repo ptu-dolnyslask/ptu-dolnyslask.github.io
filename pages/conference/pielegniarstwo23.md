@@ -19,6 +19,9 @@ Konferencja szkoleniowa: {{page.title}}
 Konferencja jest kierowana do pielęgniarek (oddziałów urologicznych, bloku operacyjnego, innych oddziałów), innych pracowników szpitali (dział zamówień, aparatury, sterylizacja, technicy Rtg), pracowników Sanepid-u.
 
 
+### Kierownik merytoryczny
+dr n. med. Aleksandra Pytel
+
 ### Komitet Organizacyjny:
 mgr inż. Katarzyna Kapuścińska, mgr Anna Zdrożna, dr n. med. Aleksandra Pytel, mgr Edyta Chamioło-Sołtysik, mgr Urszula Rudzik, dr n. med. Zenona Jabłońska, dr n. med. Ireneusz Skawina, dr n. med. Michał Wróbel, mgr inż. Szymon Wróbel, Radosław Piszczek, Maciej Lenartowski, Arnold Karbowski, Vitalyi Kovalchuk, Szymon Zapołoch, Maciej Wołkowiecki, Tomasz Michalik, Filip Czerwiński
 

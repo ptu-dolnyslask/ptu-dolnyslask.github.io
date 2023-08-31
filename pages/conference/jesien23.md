@@ -15,9 +15,11 @@ nav_order: 2
 **Miejsce**: Uniwersytecki Szpital Kliniczny we Wrocławiu, ul. Borowska 213<br/>
 **Data**: 28 października 2023
 
-### Organizatorzy
+## Organizatorzy
 * Oddział Dolnośląski Polskiego Towarzystwa Urologicznego
 * Uniwerysteckie Centrum Urologii, Uniwersytet Medyczny we Wrocławiu
+
+## Program
 
 ### Sesja I 10:00 – 11:15
 #### Pęcherz neurogenny i zakażenia układu moczowego.
@@ -45,3 +47,6 @@ nav_order: 2
 * *Aktualne leczenie systemowa raka pęcherza moczowego naciekającego mięśniówkę* – Łukasz Nowak
 * *Leczenie adjuwantowe u pacjenta z rakiem pęcherza moczowego naciekającym mięśniówkę wysokiego ryzyka* – dr n. med. Zbyszko Chowaniec Wykład sponsorowany Bristol Meyers Squib
 * *Dyskusja i miniquiz III*
+
+## Certyfikaty
+* INFARMA [PDF]({{site.baseurl}}/assets/cert/INFARMA_Certyfikat_7167.pdf)

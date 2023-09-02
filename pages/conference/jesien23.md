@@ -17,7 +17,7 @@ nav_order: 2
 
 ## Organizatorzy
 * Oddział Dolnośląski Polskiego Towarzystwa Urologicznego
-* Uniwerysteckie Centrum Urologii, Uniwersytet Medyczny we Wrocławiu
+* Uniwersyteckie Centrum Urologii, Uniwersytet Medyczny we Wrocławiu
 
 ## Program
 

@@ -14,7 +14,7 @@ Konferencja szkoleniowa: {{page.title}}
 ---
 
 **Miejsce**: Sala audytoryjna DSS im Marciniaka we Wrocławiu, ul. Fieldorfa 2 Wrocław<br/>
-**Data**: Listopad XX 10:00 – 15:00; 12:00 – 13:00 Lunch
+**Data**: 2 Grudnia 10:00 – 15:00; 12:00 – 13:00 Lunch
 
 Konferencja jest kierowana do pielęgniarek (oddziałów urologicznych, bloku operacyjnego, innych oddziałów), innych pracowników szpitali (dział zamówień, aparatury, sterylizacja, technicy Rtg), pracowników Sanepid-u.
 
@@ -34,7 +34,7 @@ mgr inż. Katarzyna Kapuścińska, mgr Anna Zdrożna, dr n. med. Aleksandra Pyte
 
 ### Zgłoszenia
 Zgłoszenia mailowo na adres <a href="mailto:{{site.email}}">{{site.email}}</a>.<br/>
-Po uzyskaniu zwrotnego maila z potwierdzeniem rejestracji należy wpłacić opłatę rejestracyjną 100 zł na konto: <a href="/pages/kontakt.html">PTU</a>
+Po uzyskaniu zwrotnego maila z potwierdzeniem rejestracji należy wpłacić opłatę rejestracyjną 50 zł na konto: <a href="/pages/kontakt.html">PTU</a>
 
 Z opłaty rejestracyjnej zwolnieni są pracownicy DSS im. Marciniaka we Wrocławiu
 

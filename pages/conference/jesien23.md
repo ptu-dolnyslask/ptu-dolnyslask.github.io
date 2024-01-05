@@ -2,7 +2,6 @@
 layout: default
 title: Jesień z Urologią 2023
 subtitle: Pęcherz neurogenny. Nowotwory pęcherza moczowego.
-nav: true
 nav_order: 2
 ---
 

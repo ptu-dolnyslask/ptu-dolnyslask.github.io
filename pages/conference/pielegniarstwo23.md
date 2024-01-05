@@ -14,7 +14,7 @@ Konferencja szkoleniowa: {{page.title}}
 ---
 
 **Miejsce**: Sala audytoryjna DSS im Marciniaka we Wrocławiu, ul. Fieldorfa 2 Wrocław<br/>
-**Data**: 2 Grudnia 10:00 – 15:00; 12:00 – 13:00 Lunch
+**Data**: 2 Marca 2024, 10:00 – 15:00; 12:00 – 13:00 Lunch
 
 Konferencja jest kierowana do pielęgniarek (oddziałów urologicznych, bloku operacyjnego, innych oddziałów), innych pracowników szpitali (dział zamówień, aparatury, sterylizacja, technicy Rtg), pracowników Sanepid-u.
 

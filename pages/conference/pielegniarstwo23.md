@@ -23,7 +23,7 @@ Konferencja jest kierowana do pielęgniarek (oddziałów urologicznych, bloku op
 dr n. med. Aleksandra Pytel
 
 ### Komitet Organizacyjny:
-mgr inż. Katarzyna Kapuścińska, mgr Anna Zdrożna, dr n. med. Aleksandra Pytel, mgr Edyta Chamioło-Sołtysik, mgr Urszula Rudzik, dr n. med. Zenona Jabłońska, dr n. med. Ireneusz Skawina, dr n. med. Michał Wróbel, mgr inż. Szymon Wróbel, Radosław Piszczek, Maciej Lenartowski, Arnold Karbowski, Vitalyi Kovalchuk, Szymon Zapołoch, Maciej Wołkowiecki, Tomasz Michalik, Filip Czerwiński
+mgr inż. Katarzyna Kapuścińska, mgr Anna Zdrożna, dr n. med. Aleksandra Pytel, mgr Edyta Chamioło-Sołtysik, mgr Urszula Rudzik, mgr Jolanta Nanowska, dr n. med. Zenona Jabłońska, dr n. med. Ireneusz Skawina, dr n. med. Michał Wróbel, mgr inż. Szymon Wróbel, Radosław Piszczek, Maciej Lenartowski, Arnold Karbowski, Vitalyi Kovalchuk, Szymon Zapołoch, Maciej Wołkowiecki, Tomasz Michalik, Filip Czerwiński, Wojciech Tomkalski
 
 ### Organizatorzy
 * Dolnośląski Szpital Specjalistyczny im. T. Marciniaka we Wrocławiu
@@ -44,7 +44,7 @@ Z opłaty rejestracyjnej zwolnieni są pracownicy DSS im. Marciniaka we Wrocław
 3.	*Przygotowanie pacjenta do zabiegu*; mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
 4.	*Wytyczne dotyczące opieki nad pacjentem po zabiegach endourologicznych*; mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
 5.	*Edukacja pacjentów*; mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
-6.	*Profilaktyka kamicy moczowej*; mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
+6.	*Profilaktyka kamicy moczowej*; Wojciech Tomkalski, mgr Edyta Chamioło-Sołtysik, mgr Joanna Sulgostowska
 7.	*SWL*: Maciej Wołkowiecki
 8.	*Cystolitotrypsja: Opis procedury, Instrumentarium (Jaki sprzęt?, Jakie elementy jednorazowe? Jak przygotować do sterylizacji?)*; Filip Czerwiński, Aneta Czechowicz
 9.	*Sztywna Ureterorenoskopia: Opis procedury, Instrumentarium*; Vitaliy Kovalchuk, Aneta Czechowicz
@@ -52,5 +52,5 @@ Z opłaty rejestracyjnej zwolnieni są pracownicy DSS im. Marciniaka we Wrocław
 11.	*PCNL/miniPCNL: Opis procedury, Instrumentarium*; Ewa Stypułkowska, mgr Urszula Rudzik, Tomasz Michalik
 12.	*ECIRS > PCNL+RIRS (ECIRS to więcej, niż suma zabiegów PCNL i RIRS)*; Szymon Zapołoch, Małgorzata Papke
 13.	*„Strachy na lachy” – narażenia na promieniowanie jonizujące w zabiegowym leczeniu kamicy układu moczowego*; dr Ewa Wróbel
-14.	*Sterylizacja narzędzi endoskopowych w urologii: czym różni się od sterylizacji gastroskopów/kolonoskopów i  klasycznych narzędzi chirurgicznych?*; dr Ireneusz Skawina
+14.	*Sterylizacja narzędzi endoskopowych w urologii: czym różni się od sterylizacji gastroskopów/kolonoskopów i  klasycznych narzędzi chirurgicznych?*; dr Ireneusz Skawina, mgr Jolanta Nanowska
 15.	*Sala zabiegowa dedykowana leczeniu zabiegowemu kamicy (wyposażenie, wymagania lokalowe, sprzętowe i osobowe)*; dr Zenona Jabłońska, mgr Edyta Chamioło-Sołtysik, Maciej Lenartowski, Radosław Piszczek

@@ -33,7 +33,7 @@ mgr inż. Katarzyna Kapuścińska, mgr Anna Zdrożna, dr n. med. Aleksandra Pyte
 * Dolnośląska Izba Pielęgniarek i Położnych
 
 ### Zgłoszenia
-Zgłoszenia mailowo na adres <a href="mailto:{{site.email}}">{{site.email}}</a>.<br/>
+Zgłoszenia mailowo na adres <a href="mailto:{{site.email}}">{{site.email}}</a> do 26.03.2024. <br/>
 Po uzyskaniu zwrotnego maila z potwierdzeniem rejestracji należy wpłacić opłatę rejestracyjną 50 zł na konto: <a href="/pages/kontakt.html">PTU</a>
 
 Z opłaty rejestracyjnej zwolnieni są pracownicy DSS im. Marciniaka we Wrocławiu

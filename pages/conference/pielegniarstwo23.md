@@ -2,7 +2,6 @@
 layout: default
 title: Pielęgniarstwo po dyplomie
 subtitle: Leczenie zabiegowe kamicy układu moczowego
-nav: true
 nav_order: 3
 ---
 

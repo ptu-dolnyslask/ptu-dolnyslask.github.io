@@ -16,3 +16,4 @@ contact_mail: ptudolnyslask(at)gmail.pl
 
 exclude:
   - README.md
+  - Makefile

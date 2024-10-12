@@ -9,8 +9,8 @@ nav_order: 4
 **Data**: 26 października 2024
 
 ## Sesja I (9:00 – 11:30)
-1. *Historia Oddziału Urologii i Urologii Onkologicznej Szpitala WSS we Wrocławiu* -- dr Lesław Świebocki, WSS (30 minut)
-2. *Podstawowa diagnostyka metaboliczna w kamicy moczowej: komu, jak i po co* -- Adrian Czekaj, DSS (20 minut)
+1. *Historia Oddziału Urologii i Urologii Onkologicznej Szpitala WSS we Wrocławiu* -- Lesław Świebocki, WSS (30 minut)
+2. *Podstawowa diagnostyka metaboliczna w kamicy moczowej: komu, jak i po co* -- Adrian Czekaj, WSS (20 minut)
 3. *Obserwacja w kamicy moczowej -- czy rzeczywiście trzeba usuwać każdy kamień?* -- Kamil Groszek, WSS (20 minut)
 4. *Once you go supine, you never go back* -- Joanna Chorbińska, USK (20 minut) 
 5. *Mini-ECIRS w pozycji prone* -- Paweł Piotrów, WSS (20 minut)

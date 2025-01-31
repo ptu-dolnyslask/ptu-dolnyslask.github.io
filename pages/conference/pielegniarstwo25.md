@@ -25,7 +25,12 @@ Konferencja szkoleniowa: {{page.title}}
 dr n. med. Michał Wróbel, dr n. med. Aleksandra Pytel, dr n. med. Zenona Jabłońska, mgr Edyta Chamioło-Sołtysik, mgr inż. Katarzyna Kapuścińska, dr n. med. Krystyna Baszak, lic. Joanna Sulgostowska, mgr Paulina Masłyk, lic. Arleta Zarzeczna, lic. Ewa Stypułkowska, lek. Szymon Zapołoch
 
 ### Uczestnictwo: 
-1.	koszt 50 zł wpłata na konto Oddziału Dolnośląskiego Polskiego Towarzystwa Urologicznego nr: `81 1090 2590 0000 0001 5460 6354` z opłaty są zwolnieni studenci ostatniego roku stacjonarnych studiów licencjackich oraz stacjonarnych studiów magisterskich na kierunkach: pielęgniarstwo oraz ratownictwo medyczne a także pracownicy Dolnośląskiego Szpitala Specjalistycznego im. Marciniaka we Wrocławiu
+1.	Koszt 50 zł wpłata na konto Oddziału Dolnośląskiego Polskiego Towarzystwa Urologicznego:
+    ```
+    81 1090 2590 0000 0001 5460 6354
+    SANTANDER BANK POLSKA SA
+    ```
+    Z opłaty są zwolnieni studenci ostatniego roku stacjonarnych studiów licencjackich oraz stacjonarnych studiów magisterskich na kierunkach: pielęgniarstwo oraz ratownictwo medyczne a także pracownicy Dolnośląskiego Szpitala Specjalistycznego im. Marciniaka we Wrocławiu
 2.	Zgłoszenie uczestnictwa mailem na adres: michal.wrobel@pwr.edu.pl
 3.	Ilość miejsc ograniczona
 

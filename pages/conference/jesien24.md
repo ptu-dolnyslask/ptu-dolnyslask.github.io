@@ -2,7 +2,7 @@
 layout: conference
 title: Jesień z Urologią 2024
 subtitle: Kamica Układu Moczowego. 40-rocznica utworzenia Oddziału Urologii Wojewódzkiego Szpitala Specjalistycznego we Wrocławiu.
-nav: true
+nav: false
 nav_order: 4
 ---
 **Miejsce**: Wojewódzki Szpital Specjalistyczny we Wrocławiu, sala audiowizualna <br/>

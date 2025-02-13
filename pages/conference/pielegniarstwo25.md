@@ -22,7 +22,7 @@ Konferencja szkoleniowa: {{page.title}}
 * Klinika Urologii; Wydział Medyczny, Politechnika Wrocławska
 
 ### Komitet Organizacyjny:
-dr n. med. Michał Wróbel, dr n. med. Aleksandra Pytel, dr n. med. Zenona Jabłońska, mgr Edyta Chamioło-Sołtysik, mgr inż. Katarzyna Kapuścińska, dr n. med. Krystyna Baszak, lic. Joanna Tarnowska, mgr Paulina Masłyk, lic. Arleta Zarzeczna, lic. Ewa Stypułkowska, lek. Szymon Zapołoch
+dr n. med. Michał Wróbel, dr n. med. Aleksandra Pytel, dr n. med. Zenona Jabłońska, mgr Edyta Chamioło-Sołtysik, mgr inż. Katarzyna Kapuścińska, dr n. med. Krystyna Baszak, mgr Joanna Tarnowska, mgr Paulina Masłyk, lic. Arleta Zarzeczna, lic. Ewa Stypułkowska, lek. Szymon Zapołoch
 
 ### Uczestnictwo: 
 1.	Koszt 50 zł wpłata na konto Oddziału Dolnośląskiego Polskiego Towarzystwa Urologicznego:
@@ -47,10 +47,10 @@ dr n. med. Michał Wróbel, dr n. med. Aleksandra Pytel, dr n. med. Zenona Jabł
 ### Przerwa 12:00 – 13:00
 ### Sesja II 13:00 – 15:00
 *Leczenie ran przewlekłych*<br/>
-**Prowadzący**: dr n. med. Zenona Jabłońska; lek. Szymon Zapołoch; lic. Joanna Tarnowska; dr n. med. Krystyna Baszak
+**Prowadzący**: dr n. med. Zenona Jabłońska; lek. Szymon Zapołoch; mgr Joanna Tarnowska; dr n. med. Krystyna Baszak
 1.	Gojenie ran. lek. Korneliusz Wójcik
 2.	Farmakoterapia ogólna ran przewlekłych. lek. Szymon Zapołoch
-3.	Terapia miejscowa ran przewlekłych. lic. Joanna Tarnowska
+3.	Terapia miejscowa ran przewlekłych. mgr Joanna Tarnowska
 4.	Innowacyjne technologie w zaopatrywaniu ran. Oczyszczenie kluczowym elementem sukcesu. Agnieszka Wolska. Urgo (wykład sponsorowany)
 5.	Podciśnieniowa terapia leczenia ran z instylacją (Namaczanie). Mirosław Szuryga. Aspironix (wykład sponsorowany)
 6.	*temat zostanie podany później*. Krzysztof Szczepanik. Braun (wykład sponsorowany)

@@ -14,7 +14,7 @@ Konferencja szkoleniowa: {{page.title}}
 ---
 
 **Miejsce**: Sala audytoryjna DSS im Marciniaka we Wrocławiu, ul. Fieldorfa 2 Wrocław<br/>
-**Termin**: 1.03.2025 10:00 – 15:00
+**Termin**: 31.05.2025 10:00 – 15:00
 
 ### Organizatorzy:
 * Dolnośląski Szpital Specjalistyczny im. Marciniaka we Wrocławiu

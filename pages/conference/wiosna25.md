@@ -15,7 +15,7 @@ nav_order: 4
 Jabłońska
 1. *Leczenie zabiegowe łagodnego rozrostu stercza – Wytyczne EAU*. Szymon Zapołoch, Michał Wróbel
 2. *HoLEP – How I Do It?*. prof. dr hab. Wojciech Krajewski, Łukasz Nowak
-3. *Adenomektomia z asystą robota. Krzysztof Ratajczyk*. Maciej Trzciniecki
+3. *Adenomektomia z asystą robota.* Krzysztof Ratajczyk, Maciej Trzciniecki
 4. *Przewlekły zespół bólowy miednicy – diagnostyka.* Adrian Czekaj, Wiktor Bursiewicz
 5. *ESWT w leczeniu przewlekłego zespołu bólowego miednicy*. Joanna Chorbińska
 

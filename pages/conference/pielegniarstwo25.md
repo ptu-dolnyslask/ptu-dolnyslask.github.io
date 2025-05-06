@@ -2,7 +2,7 @@
 layout: default
 title: Pielęgniarstwo po dyplomie 2025
 subtitle: Zagadnienia prawne wykonywania zawodu pielęgniarki. Leczenie ran przewlekłych.
-nav: true
+nav: false
 nav_order: 3
 ---
 

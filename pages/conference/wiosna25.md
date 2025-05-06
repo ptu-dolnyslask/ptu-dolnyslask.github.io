@@ -2,7 +2,7 @@
 layout: conference
 title: Wiosna z Prostatą 2025
 # subtitle: Kamica Układu Moczowego. 40-rocznica utworzenia Oddziału Urologii Wojewódzkiego Szpitala Specjalistycznego we Wrocławiu.
-nav: true
+nav: false
 nav_order: 4
 ---
 **Miejsce**: Sala audytoryjna DSS im Marciniaka we Wrocławiu, ul. Fieldorfa 2, Wrocław <br/>
